@@ -1,0 +1,28 @@
+{
+    "name": "proklung/base-exception",
+    "description": "Базовое исключение, наследующееся от HttpException.",
+    "type": "library",
+    "keywords": [
+        "symfony"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gavrilov Fedy",
+            "email": "fedor.gavrilov.75@mail.ru",
+            "homepage": "https://github.com/ProklUng"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ProklUng/base-exception/issues",
+        "source": "https://github.com/ProklUng/base-exception"
+    },
+    "autoload": {
+        "psr-4": {
+            "Prokl\\BaseException\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.1"
+    }
+}
