@@ -1,10 +1,7 @@
 {
     "name": "proklung/base-exception",
-    "description": "Базовое исключение, наследующееся от HttpException.",
+    "description": "Базовое исключение для своих проектов.",
     "type": "library",
-    "keywords": [
-        "symfony"
-    ],
     "license": "MIT",
     "authors": [
         {
